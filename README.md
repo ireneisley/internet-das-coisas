@@ -8,9 +8,18 @@ Este repositório reúne simulações e projetos desenvolvidos durante a discipl
 
 - Simulações de projetos de Internet das Coisas  
 - Implementações utilizando microcontroladores  
-- Testes e experimentos com sensores e atuadores
+- Testes e experimentos com sensores e atuadores  
 
 ---
+
+## 📁 Projetos
+
+- [Simulação GPIO 1 – Controle Digital de LEDs](simulacao-gpio-1.md)
+- [Simulação GPIO 2 – PWM e Interrupções](simulacao-gpio-2.md)
+
+---
+
 ## 👩‍💻 Aluna
-Irene Isley Silva de Vasconcelos  
+
+**Irene Isley Silva de Vasconcelos**  
 202311250026
