@@ -21,5 +21,5 @@ Este repositório reúne simulações e projetos desenvolvidos durante a discipl
 
 ## 👩‍💻 Aluna
 
-**Irene Isley Silva de Vasconcelos**  
+Irene Isley Silva de Vasconcelos   
 202311250026
