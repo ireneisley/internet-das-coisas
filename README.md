@@ -7,7 +7,9 @@ Este repositório reúne simulações e projetos desenvolvidos durante a discipl
 ## Conteúdo do Repositório
 
 - Simulações de projetos de Internet das Coisas  
-- Implementações utilizando microcontroladores  
+- Implementações utilizando microcontroladores
+- Integração com redes Wi-Fi
+- Sincronização de tempo via protocolos de rede  
 - Testes e experimentos com sensores e atuadores  
 
 ---
@@ -16,7 +18,7 @@ Este repositório reúne simulações e projetos desenvolvidos durante a discipl
 
 - [Simulação GPIO 1 – Controle Digital de LEDs](simulacao-gpio-1.md)
 - [Simulação GPIO 2 – PWM e Interrupções](simulacao-gpio-2.md)
-
+- [Wi-Fi + SNTP (ESP32)](https://github.com/ireneisley/internet-das-coisas/tree/wifi_sntp)
 ---
 
 ## 👩‍💻 Aluna
