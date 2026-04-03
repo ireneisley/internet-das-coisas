@@ -18,7 +18,9 @@ Este repositório reúne simulações e projetos desenvolvidos durante a discipl
 
 - [Simulação GPIO 1 – Controle Digital de LEDs](simulacao-gpio-1.md)
 - [Simulação GPIO 2 – PWM e Interrupções](simulacao-gpio-2.md)
-- [Wi-Fi + SNTP (ESP32)](https://github.com/ireneisley/internet-das-coisas/tree/wifi_sntp)
+- [Wi-Fi + SNTP (ESP32)](https://github.com/ireneisley/internet-das-coisas/tree/main/wifi-sntp)
+- [Comunicação MQTT (ESP32-C6)](https://github.com/ireneisley/internet-das-coisas/tree/main/comunicacao-mqtt)
+
 ---
 
 ## 👩‍💻 Aluna
