@@ -10,6 +10,7 @@ Este repositório reúne simulações e projetos desenvolvidos durante a discipl
 - Implementações utilizando microcontroladores
 - Integração com redes Wi-Fi
 - Sincronização de tempo via protocolos de rede  
+- Comunicação entre dispositivos via protocolo MQTT com broker Mosquitto  
 - Testes e experimentos com sensores e atuadores  
 
 ---
@@ -20,6 +21,7 @@ Este repositório reúne simulações e projetos desenvolvidos durante a discipl
 - [Simulação GPIO 2 – PWM e Interrupções](simulacao-gpio-2.md)
 - [Wi-Fi + SNTP (ESP32)](https://github.com/ireneisley/internet-das-coisas/tree/main/wifi-sntp)
 - [Comunicação MQTT (ESP32-C6)](https://github.com/ireneisley/internet-das-coisas/tree/main/comunicacao-mqtt)
+- [Projeto 1 – Controle de Iluminação IoT com MQTT](https://github.com/ireneisley/internet-das-coisas/tree/main/projeto-1)
 
 ---
 
