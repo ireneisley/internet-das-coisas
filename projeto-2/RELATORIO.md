@@ -5,10 +5,8 @@
 ## Relatório Acadêmico — Preparação, Gravação e Validação da Mídia de Armazenamento
  
  
-**Instituição:** Instituto Federal da Paraíba (IFPB), Campus Campina Grande
-
-**Disciplina:** Internet das Coisas (IoT)  
-
+**Instituição:** Instituto Federal da Paraíba - Campus Campina Grande
+**Disciplina:** Internet das Coisas  
 **Data:** 13 de Maio de 2026
 
  
@@ -87,7 +85,7 @@ O **BeagleBoard Imager** é o utilitário oficial mantido pela BeagleBoard.org F
  
 - Download automático das imagens oficiais;
 - Verificação de integridade via SHA256;
-- Aplicação de customizações no momento da gravação (hostname, usuário, Wi-Fi, SSH, etc.);
+- Aplicação de customizações no momento da gravação (hostname, usuário, Wi-Fi, SSH);
 - Suporte multiplataforma (Windows, macOS, Linux).
 ### 3.4 DiskPart
  
@@ -150,7 +148,7 @@ Disco 0    Online      953 GB     1024 KB          *
 Disco 1    Online      7460 MB    3072 KB
 ```
  
-O **Disco 1** (~7460 MB) corresponde ao cartão de 8 GB. A capacidade ligeiramente inferior ao valor nominal deve-se à diferença entre os sistemas de unidades binárias e decimais utilizados por fabricantes e sistemas operacionais.
+O **Disco 1** (7460 MB) corresponde ao cartão de 8 GB. A capacidade ligeiramente inferior ao valor nominal deve-se à diferença entre os sistemas de unidades binárias e decimais utilizados por fabricantes e sistemas operacionais.
  
 Em seguida, foram executados:
  
@@ -166,12 +164,12 @@ exit
  
 A função de cada comando:
  
-- `select disk 1` — Seleciona o cartão como disco-alvo (atenção redobrada para não selecionar o disco do sistema);
+- `select disk 1` — Seleciona o cartão como disco-alvo (atenção para não selecionar o disco do sistema);
 - `clean` — Remove toda a tabela de partições e estruturas de dados;
 - `create partition primary` — Cria uma partição primária ocupando todo o espaço disponível;
 - `active` — Marca a partição como ativa (necessário para boot);
 - `format fs=fat32 quick` — Formata a partição em FAT32 (formato amplamente reconhecido);
-- `assign` — Atribui uma letra de unidade (D:, E:, F:, etc.).
+- `assign` — Atribui uma letra de unidade.
 Após a execução, o cartão tornou-se visível no Explorador de Arquivos como uma unidade vazia, pronta para receber a imagem do sistema.
  
 ### 5.3 Instalação do BeagleBoard Imager
@@ -234,7 +232,7 @@ O primeiro boot consumiu aproximadamente 5 minutos, durante os quais o sistema:
  
 - Expandiu a partição raiz para ocupar todo o espaço disponível;
 - Aplicou as customizações definidas via `sysconf`;
-- Inicializou os serviços do sistema (SSH, networking, etc.);
+- Inicializou os serviços do sistema (SSH, networking);
 - Realizou um ou dois reboots automáticos.
 #### 5.6.3 Conexão Ethernet e Acesso SSH
  
@@ -339,7 +337,7 @@ Os arquivos `services/`, `ID` e `START` apresentavam timestamp de **23/04/2026**
  
 A inicialização da BBB ocorreu sem incidentes:
  
-- Boot iniciado em ~5 segundos após energização;
+- Boot iniciado em 5 segundos após energização;
 - LEDs piscando em padrões característicos durante o boot;
 - Primeiro boot completo em aproximadamente 5 minutos;
 - Boots subsequentes em menos de 60 segundos.
