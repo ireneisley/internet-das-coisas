@@ -1,3 +1,5 @@
+<div style="text-align: justify;">
+
 # Instalação do Sistema Operacional do BeagleBone Black em Cartão microSD
  
 ## Relatório Acadêmico — Preparação, Gravação e Validação da Mídia de Armazenamento
@@ -401,4 +403,6 @@ Com a BBB plenamente operacional e acessível remotamente via SSH, a infraestrut
  
 <div align="center">
   
-</div> 
+</div>
+
+</div>
