@@ -1,8 +1,4 @@
-# Projeto 3 — Controle de Iluminação IoT com Monitoramento em Nuvem e Persistência de Dados
-
-> IFPB - Internet das Coisas  
-> 21/05/2026
-
+# Controle de Iluminação IoT com Monitoramento em Nuvem e Persistência de Dados
 ---
 
 ## Sumário
