@@ -13,5 +13,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=c:\\Users\\irene\\wifi_sntp\\build"
-  ]
+  ],
+  "cmake.sourceDirectory": "C:/Users/irene/iot2026_1/comunicacao-mqtt"
 }
