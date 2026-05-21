@@ -1,6 +1,6 @@
 # Controle de Iluminação IoT com Monitoramento em Nuvem e Persistência de Dados
 
-Alberto Viturino Mamede  
+Alberto Viturino  
 Ana Beatriz Belo  
 Felipe de Freitas  
 Irene Isley Silva de Vasconcelos
