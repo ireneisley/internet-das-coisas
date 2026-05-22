@@ -23,7 +23,7 @@ Este repositório reúne simulações e projetos desenvolvidos durante a discipl
 - [Comunicação MQTT (ESP32-C6)](https://github.com/ireneisley/internet-das-coisas/tree/main/comunicacao-mqtt)
 - [Projeto 1 – Controle de Iluminação IoT com MQTT](https://github.com/ireneisley/internet-das-coisas/tree/main/projeto-1)
 - [Projeto 2 – Controle de Iluminação (GATEWAY)](https://github.com/ireneisley/internet-das-coisas/tree/main/projeto-2/RELATORIO.md)
-- [Projeto 2 – Controle de Iluminação IoT com Monitoramento em Nuvem e Persistência de Dados](https://github.com/ireneisley/internet-das-coisas/blob/main/projeto-3/RELATORIO.md)
+- [Projeto 3 – Controle de Iluminação IoT com Monitoramento em Nuvem e Persistência de Dados](https://github.com/ireneisley/internet-das-coisas/blob/main/projeto-3/RELATORIO.md)
 
 
 ---
