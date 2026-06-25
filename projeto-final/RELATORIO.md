@@ -1101,5 +1101,3 @@ Iot_Zigbee/receptor/
 - **SQLite Documentation:** https://www.sqlite.org/docs.html
 
 ---
-
-*Relatório técnico — Projeto Final de IoT 2026.1 — Grupo 2 (Monitoramento Ambiental: Temperatura via Zigbee).*
