@@ -1,12 +1,8 @@
-<style>
-body, p, li { text-align: justify; }
-</style>
-
 # Relatório Acadêmico — Monitoramento de Temperatura via Zigbee
 
-**Instituição:** Instituto Federal da Paraíba — Campus Campina Grande
-**Disciplina:** Internet das Coisas
-**Data:** 26 de Junho de 2026
+**Instituição:** Instituto Federal da Paraíba — Campus Campina Grande  
+**Disciplina:** Internet das Coisas  
+**Data:** 26 de Junho de 2026  
 
 **Grupo:**
 - Alberto Viturino Mamede
